@@ -1,0 +1,13 @@
+C:\Users\kriss\Desktop\Visual\ConsoleApp811\ConsoleApp811\bin\Debug\netcoreapp3.1\ConsoleApp811.exe
+C:\Users\kriss\Desktop\Visual\ConsoleApp811\ConsoleApp811\obj\Debug\netcoreapp3.1\ConsoleApp811.csprojAssemblyReference.cache
+C:\Users\kriss\Desktop\Visual\ConsoleApp811\ConsoleApp811\obj\Debug\netcoreapp3.1\ConsoleApp811.AssemblyInfoInputs.cache
+C:\Users\kriss\Desktop\Visual\ConsoleApp811\ConsoleApp811\obj\Debug\netcoreapp3.1\ConsoleApp811.AssemblyInfo.cs
+C:\Users\kriss\Desktop\Visual\ConsoleApp811\ConsoleApp811\bin\Debug\netcoreapp3.1\ConsoleApp811.deps.json
+C:\Users\kriss\Desktop\Visual\ConsoleApp811\ConsoleApp811\bin\Debug\netcoreapp3.1\ConsoleApp811.runtimeconfig.json
+C:\Users\kriss\Desktop\Visual\ConsoleApp811\ConsoleApp811\bin\Debug\netcoreapp3.1\ConsoleApp811.runtimeconfig.dev.json
+C:\Users\kriss\Desktop\Visual\ConsoleApp811\ConsoleApp811\bin\Debug\netcoreapp3.1\ConsoleApp811.dll
+C:\Users\kriss\Desktop\Visual\ConsoleApp811\ConsoleApp811\bin\Debug\netcoreapp3.1\ConsoleApp811.pdb
+C:\Users\kriss\Desktop\Visual\ConsoleApp811\ConsoleApp811\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\kriss\Desktop\Visual\ConsoleApp811\ConsoleApp811\obj\Debug\netcoreapp3.1\ConsoleApp811.csproj.CopyComplete
+C:\Users\kriss\Desktop\Visual\ConsoleApp811\ConsoleApp811\obj\Debug\netcoreapp3.1\ConsoleApp811.dll
+C:\Users\kriss\Desktop\Visual\ConsoleApp811\ConsoleApp811\obj\Debug\netcoreapp3.1\ConsoleApp811.pdb
